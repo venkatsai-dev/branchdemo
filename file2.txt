@@ -1,1 +1,2 @@
 This is file2 created by main branch
+This file is modified in branch 2
