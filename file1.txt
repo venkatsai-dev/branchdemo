@@ -1,2 +1,7 @@
 This is file1 created by main branch 
+<<<<<<< HEAD
 This file is modified at the main branch by venkatsai
+=======
+This file is modified at b2 by team memeber2
+
+>>>>>>> b2
